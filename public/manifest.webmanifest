@@ -1,0 +1,17 @@
+{
+  "name": "On track",
+  "short_name": "On track",
+  "description": "As tuas tarefas, hábitos e metas, com estatísticas de cumprimento.",
+  "lang": "pt-PT",
+  "start_url": "./#hoje",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eff1ed",
+  "theme_color": "#eff1ed",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
